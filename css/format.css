@@ -1,0 +1,52 @@
+body {
+    background-color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 1050px;
+    margin: auto;
+
+
+}
+
+h1 {
+    color: blue;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 16pt;
+}
+
+h2 {
+    font-size: 13pt;
+}
+
+hr {
+    background-color: red;
+    height: 3px;
+    border-color: gray;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    text-align: justify;
+}
+
+.rot {
+    color: red;
+    letter-spacing: 3.5pt;
+    font-weight: bold;
+}
+
+.gelb {
+    color: #e8be18;
+    font-weight: bold;
+}
+
+p {
+    font-size: 11pt;
+    text-indent: 2.5em;
+}
+
+#quelle {
+    font-style: italic;
+    font-size: 9pt;
+}
